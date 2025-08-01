@@ -1,3 +1,4 @@
-My name is Claudio, I'm a Software Engineer.
+Hey there.
+This is Claudio, I'm a Software Engineer.
 
-I use this profile to learn and experiment with code.
+This is my personal GitHub profile: it's all private, you won't find anything interesting here. I use it to experiment and learn new things.
